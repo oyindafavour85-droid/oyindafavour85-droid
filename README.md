@@ -17,9 +17,6 @@ A few things I've shipped:
 How I work
 
 I lead with diagnosis over guesswork. When something breaks, I trace it — the email assistant project is a good example of that in practice.
-
-My JavaScript comes from working inside n8n Code nodes, not formal training. I'm upfront about that — I'd rather be accurate about what I know than pad a resume.
-
 Currently
 Facilitating a 14-week AI/automation curriculum at NECA ICT Academy (Techlytics)
 Open to automation engineering roles and freelance/contract builds
